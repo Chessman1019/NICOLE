@@ -1,8 +1,12 @@
 const messages = [
   "🌻 Hola Nicole 🌻",
-  "Eres una buena persona , porque  me ayududaste en muchas cosas 💕",
-  "Como estos girasoles, siempre iluminas mi vida ☀️",
-  "Te APRECIO hoy, mañana y siempre 💛"
+  "Quiero que sepas lo importante que eres para mí ✨",
+  "Eres mucho más que una amiga, porque contigo todo es diferente 💕",
+  "Me apoyas en cada momento y siempre logras sacarme una sonrisa 😌",
+  "Con estos girasoles quiero recordarte lo valiosa que eres ☀️",
+  "A tu lado todo se siente más bonito, más fácil, más feliz 💛",
+  "Gracias por ser tú, por estar y por hacer que cada día sea especial ✨",
+  "Te aprecio hoy, mañana y siempre 🌹"
 ];
 
 let index = 0;
@@ -21,3 +25,4 @@ function nextMessage() {
 window.onload = () => {
   messageEl.classList.add("show");
 };
+
