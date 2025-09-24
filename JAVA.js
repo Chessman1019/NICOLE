@@ -6,7 +6,7 @@ const messages = [
   "Con estos girasoles quiero recordarte lo valiosa que eres ☀️",
   "A tu lado todo se siente más bonito, más fácil, más feliz 💛",
   "Gracias por ser tú, por estar y por hacer que cada día sea especial ✨",
-  "Te aprecio hoy, mañana y siempre 🌹"
+  "Te aprecio hoy, mañana y siempre. 🌹"
 ];
 
 let index = 0;
@@ -25,4 +25,5 @@ function nextMessage() {
 window.onload = () => {
   messageEl.classList.add("show");
 };
+
 
