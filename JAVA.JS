@@ -1,7 +1,7 @@
 const messages = [
   "🌻 Hola Nicole 🌻",
   "Eres una buena persona , porque  me ayududaste en muchas cosas 💕",
-  "Como estos girasoles, siempre iluminas mi vida ☀️",
+  "Con  estos girasoles, queria agradecerte por todo ☀️",
   "Te APRECIO hoy, mañana y siempre 💛"
 ];
 
@@ -21,3 +21,4 @@ function nextMessage() {
 window.onload = () => {
   messageEl.classList.add("show");
 };
+
